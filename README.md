@@ -8,8 +8,6 @@ I am a beginner Python developer based in Serbia. I started to actively learn Py
 
 :telescope: I'm planning to master web development and work as a Python developer.
 
-:mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kooznitsa) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kooznitsa@gmail.com)
-
 ---
 
 ### 💻 Tech stack
@@ -36,13 +34,6 @@ I am a beginner Python developer based in Serbia. I started to actively learn Py
 
 ---
 
-### 🤝 Social links
+### :mailbox: How to contact me
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kooznitsa" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-  </a>
-  <a href="https://t.me/kooznitsa" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-  </a>
-</div>
+[![Telegram Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kooznitsa) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kooznitsa@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=LinkedIn&logoColor=white)]([https://t.me/kooznitsa](https://www.linkedin.com/in/kooznitsa/))
