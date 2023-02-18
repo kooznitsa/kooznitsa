@@ -36,7 +36,7 @@ I am a beginner Python developer based in Serbia. I started to actively learn Py
 
 ---
 
-### 🤝 Social Links
+### 🤝 Social links
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kooznitsa" target="_blank">
