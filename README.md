@@ -4,9 +4,9 @@
 
 I am a beginner Python developer based in Serbia. I started to actively learn Python and Django in summer 2022.
 
-:telescope: I'm learning Python, Python frameworks and web development tools by myself and using selected online courses.
+:zap: I'm learning Python, Python frameworks and web development tools by myself and using selected online courses.
 
-:zap: I'm planning to master web development and work as a Python developer.
+:telescope: I'm planning to master web development and work as a Python developer.
 
 :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kooznitsa) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kooznitsa@gmail.com)
 
@@ -18,7 +18,7 @@ I am a beginner Python developer based in Serbia. I started to actively learn Py
 
 ---
 
-### 🎩: Courses
+### 📑 Courses
 
 | Course                                                          | Timeframe         |
 | ----------------------------------------------------------------| :---------------: |
@@ -30,7 +30,7 @@ I am a beginner Python developer based in Serbia. I started to actively learn Py
 
 ---
 
-### ⚔️: Codewars
+### ⚔️ Codewars
 
 ![codewars](https://www.codewars.com/users/kooznitsa/badges/large)
 
