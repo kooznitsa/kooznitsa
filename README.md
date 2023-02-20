@@ -24,7 +24,7 @@ I am a beginner Python developer based in Serbia. I started to actively learn Py
 | udemy.com / Django Beginners' Course                            | 07/2022 – 07/2022 |
 | [stepik.org / Python Generation: Course for Advanced Students](https://stepik.org/cert/1659928)  | 08/2022 – 09/2022 |
 | [stepik.org / Python Generation: Course for Professionals](https://stepik.org/cert/1892736)      | 10/2022 – 01/2023 |
-| udemy.com / SQL and PostgreSQL: The Complete Developer's Guide  | 02/2023 – current |
+| [udemy.com / SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-9e0435ca-7a59-4f49-8922-4866971ec2e2/)  | 02/2023 – 02/2023 |
 
 ---
 
