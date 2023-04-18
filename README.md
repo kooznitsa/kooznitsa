@@ -1,8 +1,8 @@
-## Hi, my name is Julia
+## Julia Kuznetsova. Junior Python Developer
 
 ### 👩‍💻 About me
 
-I am a beginner Python developer based in Serbia. I started to actively learn Python and Django in summer 2022.
+I am a self-taught Python developer based in Serbia. I started to actively learn Python and frameworks in summer 2022.
 
 :zap: I'm learning Python, Python frameworks and web development tools by myself and using selected online courses.
 
@@ -35,6 +35,7 @@ TOOLS.................................................<img src="https://img.shie
 | [stepik.org / Python Generation: Course for Advanced Students](https://stepik.org/cert/1659928)  | 08/2022 – 09/2022 |
 | [stepik.org / Python Generation: Course for Professionals](https://stepik.org/cert/1892736)      | 10/2022 – 01/2023 |
 | [udemy.com / SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-9e0435ca-7a59-4f49-8922-4866971ec2e2/)  | 02/2023 – 02/2023 |
+| [stepik.org / Algorithms: Theory and Practice. Methods](https://stepik.org/cert/2035744)      | 04/2023 – 04/2023 |
 
 ---
 
