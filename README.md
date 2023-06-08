@@ -1,4 +1,4 @@
-## Julia Kuznetsova. Junior Python Developer
+## Julia Kuznetsova. Python Developer
 
 ### 👩‍💻 About me
 
@@ -14,7 +14,7 @@ I am a self-taught Python developer based in Serbia. I started to actively learn
 
 PROGRAMMING LANGUAGE...<img src="https://img.shields.io/badge/Python-d93b32?style=for-the-badge&logo=python&logoColor=black"/>
 
-FRAMEWORKS................................<img src="https://img.shields.io/badge/Django-fc884d?style=for-the-badge&logo=django&logoColor=black"/> <img src="https://img.shields.io/badge/DJANGO REST-fc884d?style=for-the-badge"/> <img src="https://img.shields.io/badge/Flask-fc884d?style=for-the-badge&logo=Flask&logoColor=black"/> <img src="https://img.shields.io/badge/Redis-fc884d?style=for-the-badge&logo=Redis&logoColor=black"/> <img src="https://img.shields.io/badge/Celery-fc884d?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pytest-fc884d?style=for-the-badge&logo=Pytest&logoColor=black"/>
+FRAMEWORKS................................<img src="https://img.shields.io/badge/Django-fc884d?style=for-the-badge&logo=django&logoColor=black"/> <img src="https://img.shields.io/badge/DRF-fc884d?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-fc884d?style=for-the-badge&logo=fastapi&logoColor=black"/> <img src="https://img.shields.io/badge/Flask-fc884d?style=for-the-badge&logo=Flask&logoColor=black"/> <img src="https://img.shields.io/badge/Redis-fc884d?style=for-the-badge&logo=Redis&logoColor=black"/> <img src="https://img.shields.io/badge/Celery-fc884d?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pytest-fc884d?style=for-the-badge&logo=Pytest&logoColor=black"/>
 
 DATABASES.......................................<img src="https://img.shields.io/badge/PostgreSQL-f5df66?style=for-the-badge&logo=PostgreSQL&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-f5df66?style=for-the-badge&logo=MySQL&logoColor=black"/>
 
@@ -22,20 +22,21 @@ LIBRARIES..........................................<img src="https://img.shields
 
 FRONTEND.......................................<img src="https://img.shields.io/badge/HTML5-96a4a5?style=for-the-badge&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-96a4a5?style=for-the-badge&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-96a4a5?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
 
-TOOLS.................................................<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-the-badge&logo=Git&logoColor=black"/>
+INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-the-badge&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-9a7b4d?style=for-the-badge&logo=Docker&logoColor=black"/>
 
 ---
 
 ### 📑 Courses
 
-| Course                                                          | Timeframe         |
-| ----------------------------------------------------------------| ----------------- |
-| [stepik.org / Basic Statistics](https://stepik.org/cert/1501801)                                 | 05/2022 – 06/2022 |
-| [udemy.com / Python Django — Complete Course](https://www.udemy.com/course/python-django-2021-complete-course/)                            | 07/2022 – 07/2022 |
-| [stepik.org / Python Generation: Course for Advanced Students](https://stepik.org/cert/1659928)  | 08/2022 – 09/2022 |
-| [stepik.org / Python Generation: Course for Professionals](https://stepik.org/cert/1892736)      | 10/2022 – 01/2023 |
+| Course                                                                                                                                        | Timeframe         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------| ----------------- |
+| [stepik.org / Basic Statistics](https://stepik.org/cert/1501801)                                                                              | 05/2022 – 06/2022 |
+| [udemy.com / Python Django — Complete Course](https://www.udemy.com/course/python-django-2021-complete-course/)                               | 07/2022 – 07/2022 |
+| [stepik.org / Python Generation: Course for Advanced Students](https://stepik.org/cert/1659928)                                               | 08/2022 – 09/2022 |
+| [stepik.org / Python Generation: Course for Professionals](https://stepik.org/cert/1892736)                                                   | 10/2022 – 01/2023 |
 | [udemy.com / SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-9e0435ca-7a59-4f49-8922-4866971ec2e2/)  | 02/2023 – 02/2023 |
-| [stepik.org / Algorithms: Theory and Practice. Methods](https://stepik.org/cert/2035744)      | 04/2023 – 04/2023 |
+| [stepik.org / Algorithms: Theory and Practice. Methods](https://stepik.org/cert/2035744)                                                      | 04/2023 – 04/2023 |
+| [udemy.com / Docker — Complete Course](https://www.udemy.com/course/docker-ru/)                                                               | 06/2023 – 06/2023 |
 
 ---
 
