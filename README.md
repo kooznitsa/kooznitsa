@@ -2,11 +2,11 @@
 
 ### 👩‍💻 About me
 
-I am a self-taught Python developer based in Serbia. I started to actively learn Python and frameworks in summer 2022.
+I am an enthusiastic Python developer with a passion for problem-solving and creating efficient solutions. My journey as a self-taught developer has involved countless hours of self-study, online courses, and personal projects. Through these endeavors, I have gained a deep understanding of Python's syntax, data structures, and various libraries/frameworks commonly used in web development.
 
-:zap: I'm learning Python, Python frameworks and web development tools by myself and using selected online courses.
+:zap: I have invested significant time and effort into honing my programming skills and building a solid foundation in Python. One of my strengths lies in my ability to quickly grasp new concepts and technologies. I am a fast learner who thrives in challenging environments, and I'm always eager to take on new coding projects. Additionally, I am highly detail-oriented and have a keen eye for optimizing code efficiency and maintainability.
 
-:telescope: I'm planning to master web development and work as a Python developer.
+:telescope: I am a strong believer in continuous learning and improvement, and I am eager to collaborate with experienced developers to further enhance my skills.
 
 ---
 
