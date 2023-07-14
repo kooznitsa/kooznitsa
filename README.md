@@ -37,7 +37,8 @@ INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Gi
 | [udemy.com / SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-9e0435ca-7a59-4f49-8922-4866971ec2e2/)  | 02/2023 – 02/2023 |
 | [stepik.org / Algorithms: Theory and Practice. Methods](https://stepik.org/cert/2035744)                                                      | 04/2023 – 04/2023 |
 | [udemy.com / Docker — Complete Course](https://www.udemy.com/course/docker-ru/)                                                               | 06/2023 – 06/2023 |
-
+| [pluralsight.com / FastAPI Fundamentals](https://www.pluralsight.com/courses/fastapi-fundamentals)                                            | 
+06/2023 – 07/2023 |
 ---
 
 ### ⚔️ Codewars
