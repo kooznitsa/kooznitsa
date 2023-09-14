@@ -30,15 +30,16 @@ INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Gi
 
 | Course                                                                                                                                        | Timeframe         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------| ----------------- |
-| [stepik.org / Basic Statistics](https://stepik.org/cert/1501801)                                                                              | 05/2022 – 06/2022 |
+| [stepik.org / Basic Statistics](https://stepik.org/cert/1501801?lang=en)                                                                      | 05/2022 – 06/2022 |
 | [udemy.com / Python Django — Complete Course](https://www.udemy.com/course/python-django-2021-complete-course/)                               | 07/2022 – 07/2022 |
-| [stepik.org / Python Generation: Course for Advanced Students](https://stepik.org/cert/1659928)                                               | 08/2022 – 09/2022 |
-| [stepik.org / Python Generation: Course for Professionals](https://stepik.org/cert/1892736)                                                   | 10/2022 – 01/2023 |
+| [stepik.org / Python Generation: Course for Advanced](https://stepik.org/cert/1659928?lang=en)                                                | 08/2022 – 09/2022 |
+| [stepik.org / Python Generation: Course for Professionals](https://stepik.org/cert/1892736?lang=en)                                           | 10/2022 – 01/2023 |
 | [udemy.com / SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-9e0435ca-7a59-4f49-8922-4866971ec2e2/)  | 02/2023 – 02/2023 |
-| [stepik.org / Algorithms: Theory and Practice. Methods](https://stepik.org/cert/2035744)                                                      | 04/2023 – 04/2023 |
+| [stepik.org / Algorithms: Theory and Practice. Methods](https://stepik.org/cert/2035744?lang=en)                                              | 04/2023 – 04/2023 |
 | [udemy.com / Docker — Complete Course](https://www.udemy.com/course/docker-ru/)                                                               | 06/2023 – 06/2023 |
 | [pluralsight.com / FastAPI Fundamentals](https://www.pluralsight.com/courses/fastapi-fundamentals)                                            | 06/2023 – 07/2023 |
 | [udemy.com / Complete FastAPI Masterclass](https://www.udemy.com/course/instagram-clone/)                                                     | 07/2023 – 07/2023 |
+| [stepik.org / Python Generation: Object-Oriented Programming (OOP)](https://stepik.org/cert/2158902?lang=en)                                  | 08/2023 – 09/2023 |
 ---
 
 ### ⚔️ Codewars
