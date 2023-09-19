@@ -18,7 +18,7 @@ FRAMEWORKS................................<img src="https://img.shields.io/badge
 
 DATABASES.......................................<img src="https://img.shields.io/badge/PostgreSQL-f5df66?style=for-the-badge&logo=PostgreSQL&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-f5df66?style=for-the-badge&logo=MySQL&logoColor=black"/>
 
-LIBRARIES..........................................<img src="https://img.shields.io/badge/pandas-65a362?style=for-the-badge&logo=pandas&logoColor=black"/> <img src="https://img.shields.io/badge/NumPy-65a362?style=for-the-badge&logo=NumPy&logoColor=black"/> <img src="https://img.shields.io/badge/Selenium-65a362?style=for-the-badge&logo=Selenium&logoColor=black"/> <img src="https://img.shields.io/badge/BEAUTIFUL SOUP-65a362?style=for-the-badge"/>
+LIBRARIES..........................................<img src="https://img.shields.io/badge/AsyncIO-65a362?style=for-the-badge&logo=AsyncIO&logoColor=black"/> <img src="https://img.shields.io/badge/pandas-65a362?style=for-the-badge&logo=pandas&logoColor=black"/> <img src="https://img.shields.io/badge/NumPy-65a362?style=for-the-badge&logo=NumPy&logoColor=black"/> <img src="https://img.shields.io/badge/Selenium-65a362?style=for-the-badge&logo=Selenium&logoColor=black"/> <img src="https://img.shields.io/badge/BEAUTIFUL SOUP-65a362?style=for-the-badge"/>
 
 FRONTEND.......................................<img src="https://img.shields.io/badge/HTML5-96a4a5?style=for-the-badge&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-96a4a5?style=for-the-badge&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-96a4a5?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
 
