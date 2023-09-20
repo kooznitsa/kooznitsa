@@ -50,4 +50,4 @@ INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Gi
 
 ### :mailbox: How to contact me
 
-[![Telegram Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kooznitsa) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kooznitsa@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=LinkedIn&logoColor=white)]([https://t.me/kooznitsa](https://www.linkedin.com/in/kooznitsa/))
+[![Telegram Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kooznitsa) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kooznitsa@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kooznitsa/)
