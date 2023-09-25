@@ -22,7 +22,7 @@ LIBRARIES..........................................<img src="https://img.shields
 
 FRONTEND.......................................<img src="https://img.shields.io/badge/HTML5-96a4a5?style=for-the-badge&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-96a4a5?style=for-the-badge&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-96a4a5?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
 
-INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-the-badge&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-9a7b4d?style=for-the-badge&logo=Docker&logoColor=black"/>
+INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-the-badge&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-9a7b4d?style=for-the-badge&logo=Docker&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-9a7b4d?style=for-the-badge&logo=postman&logoColor=white"/>
 
 ---
 
@@ -46,8 +46,13 @@ INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Gi
 
 ![codewars](https://www.codewars.com/users/kooznitsa/badges/large)
 
+![Codewars](https://github.r2v.ch/codewars?user=kooznitsa&hide_clan=true&name=true&top_languages=true&stroke=%23BB432C)
+
 ---
 
 ### :mailbox: How to contact me
 
 [![Telegram Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kooznitsa) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kooznitsa@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kooznitsa/)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kooznitsa&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
