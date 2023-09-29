@@ -22,7 +22,7 @@ LIBRARIES..........................................<img src="https://img.shields
 
 FRONTEND.......................................<img src="https://img.shields.io/badge/HTML5-96a4a5?style=for-the-badge&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-96a4a5?style=for-the-badge&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-96a4a5?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
 
-INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-the-badge&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-9a7b4d?style=for-the-badge&logo=Docker&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-9a7b4d?style=for-the-badge&logo=postman&logoColor=white"/>
+INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-the-badge&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-9a7b4d?style=for-the-badge&logo=Docker&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-9a7b4d?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-9a7b4d?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 ---
 
@@ -40,6 +40,7 @@ INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Gi
 | [pluralsight.com / FastAPI Fundamentals](https://www.pluralsight.com/courses/fastapi-fundamentals)                                            | 06/2023 – 07/2023 |
 | [udemy.com / Complete FastAPI Masterclass](https://www.udemy.com/course/instagram-clone/)                                                     | 07/2023 – 07/2023 |
 | [stepik.org / Python Generation: Object-Oriented Programming (OOP)](https://stepik.org/cert/2158902?lang=en)                                  | 08/2023 – 09/2023 |
+| [stepik.org / Bioinformatics Institute: Introduction to Linux](https://stepik.org/cert/2189875?lang=en)                                       | 09/2023 – 09/2023 |
 ---
 
 ### ⚔️ Codewars
