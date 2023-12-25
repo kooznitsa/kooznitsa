@@ -41,6 +41,7 @@ INFRASTRUCTURE.........................<img src="https://img.shields.io/badge/Gi
 | [udemy.com / Complete FastAPI Masterclass](https://www.udemy.com/course/instagram-clone/)                                                     | 07/2023 – 07/2023 |
 | [stepik.org / Python Generation: Object-Oriented Programming (OOP)](https://stepik.org/cert/2158902?lang=en)                                  | 08/2023 – 09/2023 |
 | [stepik.org / Bioinformatics Institute: Introduction to Linux](https://stepik.org/cert/2189875?lang=en)                                       | 09/2023 – 09/2023 |
+| [practicum.yandex.ru / Git Basics](https://practicum.yandex.ru/git-basics/)                                                                   | 12/2023 – 12/2023 |
 ---
 
 ### ⚔️ Codewars
