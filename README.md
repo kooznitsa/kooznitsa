@@ -2,11 +2,12 @@
 
 ### 👩‍💻 About me
 
-I am an enthusiastic Python developer with a passion for problem-solving and creating efficient solutions. My journey as a self-taught developer has involved countless hours of self-study, online courses, and personal projects. Through these endeavors, I have gained a deep understanding of Python's syntax, data structures, and various libraries/frameworks commonly used in web development.
-
-:zap: I have invested significant time and effort into honing my programming skills and building a solid foundation in Python. One of my strengths lies in my ability to quickly grasp new concepts and technologies. I am a fast learner who thrives in challenging environments, and I'm always eager to take on new coding projects. Additionally, I am highly detail-oriented and have a keen eye for optimizing code efficiency and maintainability.
-
-:telescope: I am a strong believer in continuous learning and improvement, and I am eager to collaborate with experienced developers to further enhance my skills.
+- Driven and self-motivated Python developer with 6 months of professional experience and 2 years of practical experience in web development. 
+- Proficient in Python programming language and related frameworks such as Django, FastAPI, and Flask. 
+- Demonstrated ability to learn independently and apply acquired knowledge effectively in real-world projects.
+- Skilled in developing scalable web applications, implementing database solutions, developing APIs and bots for messengers. 
+- Possess a strong understanding of web development principles, object-oriented programming concepts, and best practices. 
+- Continuously seeking opportunities to expand skill set and tackle new challenges. 
 
 ---
 
