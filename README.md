@@ -23,6 +23,8 @@ LIBRARIES.....................<img src="https://img.shields.io/badge/AsyncIO-65a
 
 BROKERS.......................<img src="https://img.shields.io/badge/Redis-877871?style=for-the-badge&logo=Redis&logoColor=black"/> <img src="https://img.shields.io/badge/RabbitMQ-877871?style=for-the-badge&logo=rabbitmq&logoColor=black"/>
 
+SERVERS........................<img src="https://img.shields.io/badge/Gunicorn-edd0a8?style=for-the-badge&logo=Gunicorn&logoColor=black"/> <img src="https://img.shields.io/badge/Uvicorn-edd0a8?style=for-the-badge&logo=Uvicorn&logoColor=black"/> <img src="https://img.shields.io/badge/NGINX-edd0a8?style=for-the-badge&logo=NGINX&logoColor=black"/>
+
 FRONTEND...................<img src="https://img.shields.io/badge/HTML5-96a4a5?style=for-the-badge&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-96a4a5?style=for-the-badge&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-96a4a5?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
 
 INFRASTRUCTURE......<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-the-badge&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-9a7b4d?style=for-the-badge&logo=Docker&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-9a7b4d?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-9a7b4d?style=for-the-badge&logo=Linux&logoColor=white"/>
