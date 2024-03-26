@@ -27,6 +27,8 @@ SERVERS........................<img src="https://img.shields.io/badge/Gunicorn-e
 
 FRONTEND...................<img src="https://img.shields.io/badge/HTML5-96a4a5?style=for-the-badge&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-96a4a5?style=for-the-badge&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-96a4a5?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
 
+MONITORING..............<img src="https://img.shields.io/badge/Monit-877871?style=for-the-badge&logo=Monit&logoColor=black"/> <img src="https://img.shields.io/badge/Flower-877871?style=for-the-badge&logo=Flower&logoColor=black"/>
+
 INFRASTRUCTURE......<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-the-badge&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-9a7b4d?style=for-the-badge&logo=Docker&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-9a7b4d?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-9a7b4d?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 ---
