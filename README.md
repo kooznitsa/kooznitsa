@@ -17,7 +17,7 @@ P/LANGUAGES...........<img src="https://img.shields.io/badge/Python-d93b32?style
 
 FRAMEWORKS...........<img src="https://img.shields.io/badge/FastAPI-fc884d?style=for-the-badge&logo=fastapi&logoColor=black"/> <img src="https://img.shields.io/badge/Django-fc884d?style=for-the-badge&logo=django&logoColor=black"/> <img src="https://img.shields.io/badge/DRF-fc884d?style=for-the-badge"/> <img src="https://img.shields.io/badge/Flask-fc884d?style=for-the-badge&logo=Flask&logoColor=black"/> <img src="https://img.shields.io/badge/Celery-fc884d?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pytest-fc884d?style=for-the-badge&logo=Pytest&logoColor=black"/>
 
-DATABASES..................<img src="https://img.shields.io/badge/PostgreSQL-f5df66?style=for-the-badge&logo=PostgreSQL&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-f5df66?style=for-the-badge&logo=MySQL&logoColor=black"/>
+DATABASES..................<img src="https://img.shields.io/badge/PostgreSQL-f5df66?style=for-the-badge&logo=PostgreSQL&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-f5df66?style=for-the-badge&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-f5df66?style=for-the-badge&logo=MongoDB&logoColor=black"/>
 
 LIBRARIES.....................<img src="https://img.shields.io/badge/AsyncIO-65a362?style=for-the-badge&logo=AsyncIO&logoColor=black"/> <img src="https://img.shields.io/badge/aiogram-65a362?style=for-the-badge&logo=aiogram&logoColor=black"/> <img src="https://img.shields.io/badge/Selenium-65a362?style=for-the-badge&logo=Selenium&logoColor=black"/> <img src="https://img.shields.io/badge/BEAUTIFUL SOUP-65a362?style=for-the-badge"/>
 
