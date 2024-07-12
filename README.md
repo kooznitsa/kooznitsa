@@ -1,4 +1,4 @@
-## Julia Kuznetsova. Python Developer
+## Yulia Kuznetsova. Python Developer
 
 ### 👩‍💻 About me
 
