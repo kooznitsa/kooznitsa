@@ -35,7 +35,7 @@ FRONTEND...................<img src="https://img.shields.io/badge/HTML5-96a4a5?s
 
 MONITORING..............<img src="https://img.shields.io/badge/Monit-877871?style=for-the-badge&logo=Monit&logoColor=black"/> <img src="https://img.shields.io/badge/Flower-877871?style=for-the-badge&logo=Flower&logoColor=black"/>
 
-INFRASTRUCTURE......<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-the-badge&logo=Git&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-9a7b4d?style=for-the-badge&logo=Docker&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-9a7b4d?style=for-the-badge&logo=Linux&logoColor=white"/>
+INFRASTRUCTURE......<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-9a7b4d?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-9a7b4d?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 ---
 
