@@ -1,8 +1,8 @@
-## Julia Kuznetsova. Python Developer
+## Julia Kuznetsova. Backend Developer
 
 ### 👩‍💻 About me
 
-- Driven and self-motivated Python developer with 6 months of professional experience and 2.5 years of practical experience in web development. 
+- Driven and self-motivated backend developer with 6 months of professional experience and 2.5 years of practical experience in web development. 
 - Proficient in Python programming language and related frameworks such as Django, FastAPI, and Flask. 
 - Demonstrated ability to learn independently and apply acquired knowledge effectively in real-world projects.
 - Skilled in developing scalable web applications, implementing database solutions, developing APIs and bots for messengers. 
@@ -13,7 +13,7 @@
 
 ### 💻 Tech stack
 
-P/LANGUAGES...........<img src="https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white"/>
+P/LANGUAGES...........<img src="https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-800000?style=for-the-badge&logo=python&logoColor=white"/>
 
 FRAMEWORKS...........<img src="https://img.shields.io/badge/Django-A52A2A?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-A52A2A?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-A52A2A?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-A52A2A?style=for-the-badge&logo=Flask&logoColor=white"/>
 
@@ -43,18 +43,19 @@ INFRASTRUCTURE......<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-
 
 | Course                                                                                                                                        | Timeframe         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------| ----------------- |
-| [stepik.org / Basic Statistics](https://stepik.org/cert/1501801?lang=en)                                                                      | 05/2022 – 06/2022 |
-| [udemy.com / Python Django — Complete Course](https://www.udemy.com/course/python-django-2021-complete-course/)                               | 07/2022 – 07/2022 |
-| [stepik.org / Python Generation: Course for Advanced](https://stepik.org/cert/1659928?lang=en)                                                | 08/2022 – 09/2022 |
-| [stepik.org / Python Generation: Course for Professionals](https://stepik.org/cert/1892736?lang=en)                                           | 10/2022 – 01/2023 |
-| [udemy.com / SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-9e0435ca-7a59-4f49-8922-4866971ec2e2/)  | 02/2023 – 02/2023 |
-| [stepik.org / Algorithms: Theory and Practice. Methods](https://stepik.org/cert/2035744?lang=en)                                              | 04/2023 – 04/2023 |
-| [udemy.com / Docker — Complete Course](https://www.udemy.com/course/docker-ru/)                                                               | 06/2023 – 06/2023 |
-| [pluralsight.com / FastAPI Fundamentals](https://www.pluralsight.com/courses/fastapi-fundamentals)                                            | 06/2023 – 07/2023 |
-| [udemy.com / Complete FastAPI Masterclass](https://www.udemy.com/course/instagram-clone/)                                                     | 07/2023 – 07/2023 |
-| [stepik.org / Python Generation: Object-Oriented Programming (OOP)](https://stepik.org/cert/2158902?lang=en)                                  | 08/2023 – 09/2023 |
-| [stepik.org / Bioinformatics Institute: Introduction to Linux](https://stepik.org/cert/2189875?lang=en)                                       | 09/2023 – 09/2023 |
+| [stepik.org / PHP: First Acquaintance](https://stepik.org/cert/2559105?lang=en)                                                               | 09/2024 – 09/2024 |
 | [practicum.yandex.ru / Git Basics](https://practicum.yandex.ru/git-basics/)                                                                   | 12/2023 – 12/2023 |
+| [stepik.org / Bioinformatics Institute: Introduction to Linux](https://stepik.org/cert/2189875?lang=en)                                       | 09/2023 – 09/2023 |
+| [stepik.org / Python Generation: Object-Oriented Programming (OOP)](https://stepik.org/cert/2158902?lang=en)                                  | 08/2023 – 09/2023 |
+| [udemy.com / Complete FastAPI Masterclass](https://www.udemy.com/course/instagram-clone/)                                                     | 07/2023 – 07/2023 |
+| [pluralsight.com / FastAPI Fundamentals](https://www.pluralsight.com/courses/fastapi-fundamentals)                                            | 06/2023 – 07/2023 |
+| [udemy.com / Docker — Complete Course](https://www.udemy.com/course/docker-ru/)                                                               | 06/2023 – 06/2023 |
+| [stepik.org / Algorithms: Theory and Practice. Methods](https://stepik.org/cert/2035744?lang=en)                                              | 04/2023 – 04/2023 |
+| [udemy.com / SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-9e0435ca-7a59-4f49-8922-4866971ec2e2/)  | 02/2023 – 02/2023 |
+| [stepik.org / Python Generation: Course for Professionals](https://stepik.org/cert/1892736?lang=en)                                           | 10/2022 – 01/2023 |
+| [stepik.org / Python Generation: Course for Advanced](https://stepik.org/cert/1659928?lang=en)                                                | 08/2022 – 09/2022 |
+| [udemy.com / Python Django — Complete Course](https://www.udemy.com/course/python-django-2021-complete-course/)                               | 07/2022 – 07/2022 |
+| [stepik.org / Basic Statistics](https://stepik.org/cert/1501801?lang=en)                                                                      | 05/2022 – 06/2022 |
 ---
 
 ### ⚔️ Codewars
