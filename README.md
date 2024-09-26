@@ -66,6 +66,10 @@ INFRASTRUCTURE......<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-
 
 ---
 
+[![goodreads.png](https://i.postimg.cc/0QspzzYf/goodreads.png)](https://www.goodreads.com/kooznitsa)
+
+---
+
 ### :mailbox: How to contact me
 
 [![Telegram Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kooznitsa) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kooznitsa@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-kooznitsa-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kooznitsa/)
