@@ -43,6 +43,7 @@ INFRASTRUCTURE......<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-
 
 | Course                                                                                                                                        | Timeframe         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------| ----------------- |
+| [udemy.com / Complete Modern PHP Developer Course](https://www.udemy.com/course/complete-modern-php-developer/)                               | 09/2024 – 09/2024 |
 | [stepik.org / PHP: First Acquaintance](https://stepik.org/cert/2559105?lang=en)                                                               | 09/2024 – 09/2024 |
 | [practicum.yandex.ru / Git Basics](https://practicum.yandex.ru/git-basics/)                                                                   | 12/2023 – 12/2023 |
 | [stepik.org / Bioinformatics Institute: Introduction to Linux](https://stepik.org/cert/2189875?lang=en)                                       | 09/2023 – 09/2023 |
