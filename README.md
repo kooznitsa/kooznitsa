@@ -59,13 +59,7 @@ INFRASTRUCTURE......<img src="https://img.shields.io/badge/Git-9a7b4d?style=for-
 | [stepik.org / Basic Statistics](https://stepik.org/cert/1501801?lang=en)                                                                      | 05/2022 – 06/2022 |
 ---
 
-### ⚔️ Codewars
-
 ![codewars](https://www.codewars.com/users/kooznitsa/badges/large)
-
-![Codewars](https://github.r2v.ch/codewars?user=kooznitsa&hide_clan=true&name=true&top_languages=true&stroke=%23BB432C)
-
----
 
 [![goodreads.png](https://i.postimg.cc/0QspzzYf/goodreads.png)](https://www.goodreads.com/kooznitsa)
 
