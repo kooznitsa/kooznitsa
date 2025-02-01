@@ -13,13 +13,13 @@
 
 ### 💻 Tech stack
 
-P/LANGUAGES...........<img src="https://img.shields.io/badge/PHP-800000?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white"/>
+P/LANGUAGES...........<img src="https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-800000?style=for-the-badge&logo=php&logoColor=white"/>
 
-FRAMEWORKS...........<img src="https://img.shields.io/badge/Symfony-A52A2A?style=for-the-badge&logo=Symfony&logoColor=white"/> <img src="https://img.shields.io/badge/Django-A52A2A?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-A52A2A?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-A52A2A?style=for-the-badge&logo=fastapi&logoColor=white"/> <!--- <img src="https://img.shields.io/badge/Flask-A52A2A?style=for-the-badge&logo=Flask&logoColor=white"/> -->
+FRAMEWORKS...........<img src="https://img.shields.io/badge/Django-A52A2A?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-A52A2A?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-A52A2A?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Symfony-A52A2A?style=for-the-badge&logo=Symfony&logoColor=white"/> <!--- <img src="https://img.shields.io/badge/Flask-A52A2A?style=for-the-badge&logo=Flask&logoColor=white"/> -->
 
 DATABASES..................<img src="https://img.shields.io/badge/PostgreSQL-A0522D?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-A0522D?style=for-the-badge&logo=MySQL&logoColor=white"/> <!--- <img src="https://img.shields.io/badge/MongoDB-A0522D?style=for-the-badge&logo=MongoDB&logoColor=white"/> -->
 
-TESTING........................<img src="https://img.shields.io/badge/PHPUnit-8B4513?style=for-the-badge&logo=PHPUnit&logoColor=white"/> <img src="https://img.shields.io/badge/Codeception-8B4513?style=for-the-badge&logo=Codeception&logoColor=white"/> <img src="https://img.shields.io/badge/Pytest-8B4513?style=for-the-badge&logo=Pytest&logoColor=white"/> <img src="https://img.shields.io/badge/unittest-8B4513?style=for-the-badge&logo=unittest&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-8B4513?style=for-the-badge&logo=postman&logoColor=white"/>
+TESTING........................<img src="https://img.shields.io/badge/Pytest-8B4513?style=for-the-badge&logo=Pytest&logoColor=white"/> <img src="https://img.shields.io/badge/unittest-8B4513?style=for-the-badge&logo=unittest&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-8B4513?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/PHPUnit-8B4513?style=for-the-badge&logo=PHPUnit&logoColor=white"/> <img src="https://img.shields.io/badge/Codeception-8B4513?style=for-the-badge&logo=Codeception&logoColor=white"/>
 
 ASYNC...........................<img src="https://img.shields.io/badge/AsyncIO-D2691E?style=for-the-badge&logo=AsyncIO&logoColor=white"/> <img src="https://img.shields.io/badge/aiohttp-D2691E?style=for-the-badge&logo=aiohttp&logoColor=white"/>
 
