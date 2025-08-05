@@ -3,7 +3,7 @@
 ### 👩‍💻 About me
 
 - Driven and self-motivated backend developer with <!---- 6 months of professional experience and 2.5 years of -->practical experience in web development. 
-- Proficient in PHP and Python programming languages and related frameworks such as Symfony, Django, and FastAPI.
+- Proficient in Python and PHP programming languages and related frameworks such as Django, FastAPI, and Symfony.
 - Demonstrated ability to learn independently and apply acquired knowledge effectively in real-world projects.
 - Continuously seeking opportunities to expand skill set and tackle new challenges.
 <!---- Skilled in developing scalable web applications, implementing database solutions, developing APIs and bots for messengers. 
